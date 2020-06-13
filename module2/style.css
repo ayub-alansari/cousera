@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+}
+h1{
+    margin: 20px;
+}
+section{
+    border: black solid 1px;
+    width: 50vw;
+    margin: 5px;
+    height: auto;
+    background-color: cornsilk;
+}
+.float{
+    float: right;
+    background-color: crimson;
+    border: black solid 1px;
+    padding: 4px;
+
+}
+.float2{
+        float: right;
+        background-color: crimson;
+        border: black solid 1px;
+        padding: 4px;
+}
+.float3{
+    float: right;
+    background-color: brown;
+    border: black solid 1px;
+    padding: 4px;
+
+    
+}
+.lorem{
+    clear: right;
+}
+.lorem2{
+    clear: right;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
